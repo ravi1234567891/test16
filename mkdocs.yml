@@ -1,0 +1,8 @@
+site_name: "test16"
+site_description: "test16"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
